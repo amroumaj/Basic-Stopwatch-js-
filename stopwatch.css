@@ -1,0 +1,20 @@
+#stopwatch{
+    font-family:monospace;
+    font-size: 99px;
+    border:aqua solid;
+    border-width: 5px;
+    border-radius: 20px;
+    color: aquamarine ;
+}
+#timeContainer{
+    text-align: center;
+}
+.btn{
+    height:50px;
+    width: 100px;
+    border:aquamarine solid;
+    border-radius: 15px;
+    color: aqua;
+    background-color:#2d2c2c ;
+    
+}
